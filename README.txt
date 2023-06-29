@@ -1,0 +1,3 @@
+la idea principal de este proyecto fue aprender que, mediante un formulario ya sea de Google o Hotmail, puedes tener una clase de base de datos.
+
+Si accedemos a nuestro perfil de Google y seleccionamos la opción de formularios, una vez estemos dentro del formulario de nuestra página, en la parte superior hay tres opciones. Si le damos clic a la opción "respuestas" y luego a "ver en hojas de cálculo", que se encuentra en la parte superior derecha, se abrirá una hoja de cálculo donde podemos observar los pedidos que nos hacen desde la página al instante.
